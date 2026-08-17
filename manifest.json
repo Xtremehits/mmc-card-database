@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "databaseVersion": "2026.08.16.af33c9ac",
-  "generated": "2026-08-16",
+  "databaseVersion": "2026.08.17.8a697d3e",
+  "generated": "2026-08-17",
   "cardCount": 57171,
-  "sha256": "a9d431bcfdc07779705a4e26eb38456cb48d03a9f65b7b9324f7b6be54bc9b90",
+  "sha256": "96bbd23ede80fd52d89ae655d4834917fe81c6eea8177267a8f4ce2ad9d06e3c",
   "databaseFile": "MMCCardIndex.json",
   "upstreamRepository": "tcgdex/cards-database",
   "upstreamBranch": "master",
-  "upstreamCommit": "af33c9ac882e2acfadffaf19e8083aa976d12983",
-  "builtAt": "2026-08-16T21:52:37.041Z"
+  "upstreamCommit": "8a697d3eee1ad187541b990e44b90896da94266c",
+  "builtAt": "2026-08-17T11:58:49.947Z"
 }
